@@ -1,10 +1,10 @@
-## That's me! 🐲
+## 🐲 That's me! 
 
 I have always been interested in Cybersecurity, and in October 2025 I began my transition from Helpdesk Support into the Cybersecurity field. 
 While I value organized and structured methodologies, I also enjoy thinking outside the box and exploring creative solutions to complex problems. 
 Here, I will document most of my learning journey, projects, and experiments as I continue to grow my skills in Cybersecurity.
 
-## Languages 🌍
+## 🌍 Languages 
 
 English
 Español
