@@ -15,4 +15,4 @@ I’m currently working on Cybersecurity labs and projects 🔬
 And learning security tools and best practices 🔍
 
 ## 💻 Technical skills
-Microsoft Defender, Kali Linux, Troubleshooting, Languages (Helps to understand the user's POV), unfairly fast learner, AD, Powerlifter 💪🏽, and pets whisperer
+Microsoft Defender, Kali Linux, Troubleshooting, Languages (Helps to understand the user's POV), unfairly fast learner, AD, Powerlifter 💪🏽, and pet whisperer
