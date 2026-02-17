@@ -11,8 +11,8 @@ Español
 日本語
 
 ## 🔍 Currently
-I’m currently working on Cybersecurity labs and projects 🔬 
-And learning security tools and best practices 🔍
+I’m currently working on Cybersecurity labs and projects 🔬
+ learning security tools and best practices 🔍
 
 ## 💻 Technical skills
 Microsoft Defender, Kali Linux, Troubleshooting, Languages (Helps to understand the user's POV), unfairly fast learner, AD, Powerlifter 💪🏽, and pet whisperer
